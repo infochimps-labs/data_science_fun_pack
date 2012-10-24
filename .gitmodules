@@ -1,0 +1,68 @@
+[submodule "datastore/elasticsearch"]
+	path = datastore/elasticsearch
+	url = https://github.com/elasticsearch/elasticsearch.git
+[submodule "datastore/hbase"]
+	path = datastore/hbase
+	url = git://git.apache.org/hbase.git
+
+[submodule "hadoop/hadoop-common"]
+	path = hadoop/hadoop-common
+	url = git://git.apache.org/hadoop-common.git
+[submodule "hadoop/mahout"]
+	path = hadoop/mahout
+	url = git://git.apache.org/mahout.git
+
+[submodule "pig/datafu"]
+	path = pig/datafu
+	url = https://github.com/linkedin/datafu.git
+[submodule "pig/pig"]
+	path = pig/pig
+	url = git://git.apache.org/pig.git
+[submodule "pig/piggychimp"]
+	path = pig/piggychimp
+	url = https://github.com/mrflip/piggychimp.git
+[submodule "pig/sounder"]
+	path = pig/sounder
+	url = https://github.com/Ganglion/sounder.git
+
+[submodule "storm/storm"]
+	path = storm/storm
+	url = https://github.com/nathanmarz/storm.git
+[submodule "storm/storm-contrib"]
+	path = storm/storm-contrib
+	url = https://github.com/nathanmarz/storm-contrib.git
+
+[submodule "support/gems/addressable"]
+	path = support/gems/addressable
+	url = https://github.com/sporkmonger/addressable.git
+[submodule "support/gems/bundler"]
+	path = support/gems/bundler
+	url = https://github.com/carlhuda/bundler.git
+[submodule "support/gems/guard"]
+	path = support/gems/guard
+	url = https://github.com/guard/guard.git
+[submodule "support/gems/guard-listen"]
+	path = support/gems/guard-listen
+	url = https://github.com/guard/listen.git
+[submodule "support/gems/guard-rspec"]
+	path = support/gems/guard-rspec
+	url = https://github.com/guard/guard-rspec.git
+[submodule "support/gems/htmlentities"]
+	path = support/gems/htmlentities
+	url = https://github.com/threedaymonk/htmlentities.git
+[submodule "support/gems/oj"]
+	path = support/gems/oj
+	url = https://github.com/ohler55/oj.git
+[submodule "support/gems/pry"]
+	path = support/gems/pry
+	url = https://github.com/pry/pry.git
+
+[submodule "wukong/configliere"]
+	path = wukong/configliere
+	url = https://github.com/infochimps-labs/configliere.git
+[submodule "wukong/gorillib"]
+	path = wukong/gorillib
+	url = https://github.com/infochimps-labs/gorillib.git
+[submodule "wukong/wukong"]
+	path = wukong/wukong
+	url = https://github.com/infochimps-labs/wukong.git
