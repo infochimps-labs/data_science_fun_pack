@@ -66,3 +66,15 @@
 [submodule "wukong/wukong"]
 	path = wukong/wukong
 	url = https://github.com/infochimps-labs/wukong.git
+[submodule "math/julia"]
+	path = math/julia
+	url = https://github.com/JuliaLang/julia.git
+[submodule "hadoop/hadoop-hdfs"]
+	path = hadoop/hadoop-hdfs
+	url = git://git.apache.org/hadoop-hdfs.git
+[submodule "hadoop/hadoop-mapreduce"]
+	path = hadoop/hadoop-mapreduce
+	url = git://git.apache.org/hadoop-mapreduce.git
+[submodule "hadoop/hive"]
+	path = hadoop/hive
+	url = git://git.apache.org/hive.git
