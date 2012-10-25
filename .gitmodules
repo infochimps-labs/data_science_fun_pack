@@ -8,9 +8,22 @@
 [submodule "hadoop/hadoop-common"]
 	path = hadoop/hadoop-common
 	url = git://git.apache.org/hadoop-common.git
+[submodule "hadoop/hadoop-hdfs"]
+	path = hadoop/hadoop-hdfs
+	url = git://git.apache.org/hadoop-hdfs.git
+[submodule "hadoop/hadoop-mapreduce"]
+	path = hadoop/hadoop-mapreduce
+	url = git://git.apache.org/hadoop-mapreduce.git
+[submodule "hadoop/hive"]
+	path = hadoop/hive
+	url = git://git.apache.org/hive.git
 [submodule "hadoop/mahout"]
 	path = hadoop/mahout
 	url = git://git.apache.org/mahout.git
+
+[submodule "math/julia"]
+	path = math/julia
+	url = https://github.com/JuliaLang/julia.git
 
 [submodule "pig/datafu"]
 	path = pig/datafu
@@ -18,9 +31,9 @@
 [submodule "pig/pig"]
 	path = pig/pig
 	url = git://git.apache.org/pig.git
-[submodule "pig/piggychimp"]
-	path = pig/piggychimp
-	url = https://github.com/mrflip/piggychimp.git
+[submodule "pig/pigsy"]
+	path = pig/pigsy
+	url = https://github.com/mrflip/pigsy.git
 [submodule "pig/sounder"]
 	path = pig/sounder
 	url = https://github.com/Ganglion/sounder.git
@@ -66,15 +79,9 @@
 [submodule "wukong/wukong"]
 	path = wukong/wukong
 	url = https://github.com/infochimps-labs/wukong.git
-[submodule "math/julia"]
-	path = math/julia
-	url = https://github.com/JuliaLang/julia.git
-[submodule "hadoop/hadoop-hdfs"]
-	path = hadoop/hadoop-hdfs
-	url = git://git.apache.org/hadoop-hdfs.git
-[submodule "hadoop/hadoop-mapreduce"]
-	path = hadoop/hadoop-mapreduce
-	url = git://git.apache.org/hadoop-mapreduce.git
-[submodule "hadoop/hive"]
-	path = hadoop/hive
-	url = git://git.apache.org/hive.git
+[submodule "pig/fast-avro-storage"]
+	path = pig/fast-avro-storage
+	url = https://github.com/josephadler/fast-avro-storage.git
+[submodule "support/libs/avro"]
+	path = support/libs/avro
+	url = git://git.apache.org/avro.git
