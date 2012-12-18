@@ -33,7 +33,7 @@
 	url = git://git.apache.org/pig.git
 [submodule "pig/pigsy"]
 	path = pig/pigsy
-	url = https://github.com/mrflip/pigsy.git
+	url = https://github.com/infochimps-labs/pigsy.git
 [submodule "pig/sounder"]
 	path = pig/sounder
 	url = https://github.com/Ganglion/sounder.git
@@ -85,3 +85,15 @@
 [submodule "support/libs/avro"]
 	path = support/libs/avro
 	url = git://git.apache.org/avro.git
+[submodule "docs/storm-wiki"]
+	path = docs/storm-wiki
+	url = https://github.com/nathanmarz/storm.wiki.git
+[submodule "pig/elephant-bird"]
+	path = pig/elephant-bird
+	url = https://github.com/kevinweil/elephant-bird
+[submodule "pig/varaha"]
+	path = pig/varaha
+	url = https://github.com/Ganglion/varaha.git
+[submodule "hadoop/giraph"]
+	path = hadoop/giraph
+	url = https://github.com/apache/giraph.git
