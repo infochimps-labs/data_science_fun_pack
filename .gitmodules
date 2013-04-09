@@ -97,3 +97,9 @@
 [submodule "hadoop/giraph"]
 	path = hadoop/giraph
 	url = https://github.com/apache/giraph.git
+[submodule "storm/storm-hbase"]
+	path = storm/storm-hbase
+	url = https://github.com/jrkinley/storm-hbase.git
+[submodule "pig/PigIR"]
+	path = pig/PigIR
+	url = https://github.com/paepcke/PigIR.git
