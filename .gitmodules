@@ -103,3 +103,6 @@
 [submodule "pig/PigIR"]
 	path = pig/PigIR
 	url = https://github.com/paepcke/PigIR.git
+[submodule "kafka/kafka"]
+	path = kafka/kafka
+	url = http://git-wip-us.apache.org/repos/asf/kafka.git
