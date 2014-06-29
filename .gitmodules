@@ -27,7 +27,7 @@
 
 [submodule "pig/datafu"]
 	path = pig/datafu
-	url = https://github.com/linkedin/datafu.git
+	url = https://github.com/apache/incubator-datafu
 [submodule "pig/pig"]
 	path = pig/pig
 	url = git://git.apache.org/pig.git
@@ -106,3 +106,12 @@
 [submodule "kafka/kafka"]
 	path = kafka/kafka
 	url = http://git-wip-us.apache.org/repos/asf/kafka.git
+[submodule "hadoop/spatial-framework-for-hadoop"]
+	path = hadoop/spatial-framework-for-hadoop
+	url = https://github.com/mrflip/spatial-framework-for-hadoop.git
+[submodule "pig/ambrose"]
+	path = pig/ambrose
+	url = https://github.com/twitter/ambrose.git
+[submodule "support/guava-libraries"]
+	path = support/guava-libraries
+	url = https://code.google.com/p/guava-libraries
